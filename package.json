@@ -3,7 +3,7 @@
   "name": "lobe-web-sample",
   "version": "0.2.0",
   "private": true,
-  "homepage": "http://SampaSinha.github.io/react_passport.git",
+  "homepage": "https://sampasinha.github.io/my-app/",
   "dependencies": {
     "@tensorflow/tfjs": "^3.1.0",
     "@testing-library/jest-dom": "^5.11.4",
